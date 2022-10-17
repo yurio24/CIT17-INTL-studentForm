@@ -1,0 +1,15 @@
+First Name:Lester
+Last Name:Sadang
+Birthday:24
+Month:September
+Year:2001
+ID:20-3289-370
+Mobile:9663359684
+Gender:Male
+Address:Malineng
+Cuyapo
+City:Nueva Ecija
+Pin:3117
+State:Manila
+Country:Philippines
+Course:CITCS
